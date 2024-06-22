@@ -1,2 +1,0 @@
-Esto es una prueba 3
-Prueba para validar uso del git rm
