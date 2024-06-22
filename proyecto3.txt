@@ -1,3 +1,4 @@
 Hola
 
 Haré una prueba del Git remove suave
+Este es un cambio para checkout
