@@ -1,4 +1,8 @@
 Esto es una segunda prueba
 Fin
+<<<<<<< HEAD
 Hago otro cambio aquí cod
 Hago un nuevo cambio en rama master
+=======
+Hago otro cambio aquí 
+>>>>>>> parent of 5166dfb (Primer cambio)
